@@ -167,3 +167,4 @@ change1 from branch1
 change1 from branch1
 change1 from branch1
 change2 from branch1
+change3 from branch1
